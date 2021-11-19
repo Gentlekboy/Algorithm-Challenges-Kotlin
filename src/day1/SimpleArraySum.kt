@@ -1,4 +1,4 @@
-package warmup
+package day1
 
 /*
 Given an array of integers, find the sum of its elements.

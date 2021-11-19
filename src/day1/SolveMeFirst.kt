@@ -1,4 +1,4 @@
-package warmup
+package day1
 /*
 Complete the function solveMeFirst to compute the sum of two integers.
 Sample 1 Input:

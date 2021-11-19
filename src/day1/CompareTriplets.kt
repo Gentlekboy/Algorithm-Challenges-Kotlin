@@ -1,4 +1,4 @@
-package warmup
+package day1
 
 /*
 Alice and Bob each created one problem for HackerRank.
