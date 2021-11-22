@@ -19,8 +19,13 @@ fun main() {
 
 fun staircase(n: Int) {
     for(i in 1..n){
+        //Add spaces appropriately
         print(" ".repeat(n-i))
+
+        //Add hashes appropriately
         print("#".repeat(i))
+
+        //Leave a line and continue with the loop
         println()
     }
 }
