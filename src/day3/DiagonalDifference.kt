@@ -2,6 +2,8 @@ package day3
 
 import java.lang.Math.abs
 
+//Challenge link: https://www.hackerrank.com/challenges/diagonal-difference/problem?isFullScreen=true
+
 fun main() {
     val arr = arrayOf(arrayOf(1, 2, 3), arrayOf(4, 5, 6), arrayOf(9, 8, 9))
     diagonalDifference(arr)
