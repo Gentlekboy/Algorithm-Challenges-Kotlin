@@ -14,3 +14,5 @@
 
 # Version control
 vcs.xml.idea
+.out
+out
