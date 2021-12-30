@@ -9,7 +9,7 @@ For example, the Hamming distance between:
 "kathrin" and "kerstin" is 4.
 0000 and 1111 is 4.
 
-https://www.linkedin.com/posts/activity-6882091340512014336-lckz
+Source: https://www.linkedin.com/posts/activity-6882091340512014336-lckz
  */
 
 fun hammingDistance(firstString: String, secondString: String): Int {
